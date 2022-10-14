@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados - Programa de Bicicletas Compartilhadas
+# Projeto de Análise de Dados - Programa de Bicicletas Compartilhadas 
 
 Estudo de caso como projeto de conclusão de curso da certificação profissional de análise de dados do google, contemplando todas as etapas da análise de dados: perguntar, preparar, processar, analisar, compartilhar e agir.
 
